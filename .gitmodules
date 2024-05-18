@@ -1,0 +1,3 @@
+[submodule "attracted-comet"]
+	path = attracted-comet
+	url = git@github.com:affixpin/attracted-comet.git
